@@ -1,0 +1,2 @@
+# 36_python_small_item
+36个python小项目案例源代码
